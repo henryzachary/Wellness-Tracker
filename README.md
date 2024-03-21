@@ -4,7 +4,7 @@ Wellness Tracker
 Team Name: Enthusiasm 
 
 Contributors: 
-Anthony Al-khafaji (anthonyh682007@gmail.com)
+Anthony Al-khafaji (anthonyh682007@gmail.com) and 
 Henry Zachary (henryzachary@oakland.edu)
 
 Description: 
